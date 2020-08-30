@@ -10,4 +10,4 @@ The steps involved in classification of the comments are as follows:
 
 3. NBC Model: I built an NBC model and to then evaluate the result.
 
-4. Checking accuracy and quality of predictions: I used the confusion matrix and cross vaidation to check the accuracy and quality of the data.
+4. Checking accuracy and quality of predictions: I used the confusion matrix and cross vaidation to check the accuracy and quality of the data. We also using SMOTE or Synthetic Minority Oversampling Technique to increase the accuracy of the data. We can further improve the accuracy by adding customized stopwords for removal or hyperparameter tuning.
