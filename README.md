@@ -1,6 +1,11 @@
+The project involved classifying Amazon reviews using a Naive Bayes Classifier
+
+The comments were obtained by scraping the data from Amazon website using Beautiful Soup package and Selenium web driver.
+
 # Naive_Bayes_Classifier
-Using naive bayes classifier to classify comments of Amazon product
+The steps involved in classification of the comments are as follows:
+1. Data pre-processing: I cleaned the data and removed any stopwords, emojis and special characters that do not add meaning to the classifications. I further lemmatized the data.
 
-Split the data into train and test (80/20). Build an NBC model and then evaluate the result.
+2. 80-20 split: I used the 80-20 split technique to divide the datanto train and test (80/20). 
 
-Build a Basic nbc model 
+3. NBC Model: I built an NBC model and to then evaluate the result.
