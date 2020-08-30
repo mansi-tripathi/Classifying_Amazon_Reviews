@@ -9,3 +9,5 @@ The steps involved in classification of the comments are as follows:
 2. 80-20 split: I used the 80-20 split technique to divide the datanto train and test (80/20). 
 
 3. NBC Model: I built an NBC model and to then evaluate the result.
+
+4. Checking accuracy and quality of predictions: I used the confusion matrix and cross vaidation to check the accuracy and quality of the data.
